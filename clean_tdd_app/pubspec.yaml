@@ -41,6 +41,9 @@ dependencies:
   freezed_annotation: ^2.4.1
   mockito: ^5.4.4
   equatable: ^2.0.5
+  flutter_bloc: any
+  bloc: ^8.1.4
+  get_it: ^7.7.0
   
 
 dev_dependencies:
